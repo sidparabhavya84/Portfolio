@@ -29,9 +29,8 @@ function Home() {
                     <p>I'm <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer" /></p>
                 </div>
             </section>
-
+            
             <main id="main">
-                
                 <section id="about" className="about">
                     <div className="container" data-aos="fade-up">
                         <div className="section-title">

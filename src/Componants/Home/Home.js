@@ -125,8 +125,7 @@ function Home() {
                             </div>
                         </div>
                     </div>
-                </section>{/* End Skills Section */}
-                {/* ======= Resume Section ======= */}
+                </section>
                 <section id="resume" className="resume">
                     <div className="container" data-aos="fade-up">
                         <div className="section-title">
@@ -135,9 +134,7 @@ function Home() {
                         </div>
                         
                         <Button variant='primary' style={{marginLeft:'45%'}} onClick={() => { resume() }}>View Resume</Button>
-                    </div>
-
-                
+                    </div>              
                 </section>
                 <section id="contact" className="contact">
                     <div className="container" data-aos="fade-up">

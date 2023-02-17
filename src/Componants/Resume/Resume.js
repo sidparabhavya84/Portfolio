@@ -68,7 +68,6 @@ function Resume() {
                                     <li>WordPress</li>
                                     <li>JavaScript</li>
                                     <li>Photoshop</li>
-
                                 </ul>
                             </div>
                             <br/>

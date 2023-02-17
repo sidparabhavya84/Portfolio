@@ -10,7 +10,6 @@ function Resume() {
     const back = () => {
         navigate(-1);
     }
-
     return (
         <>
             <section id="resume" className="resume">

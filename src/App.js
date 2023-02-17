@@ -4,7 +4,6 @@ import Home from './Componants/Home/Home';
 import { Route, Routes } from 'react-router-dom';
 import Resume from './Componants/Resume/Resume';
 
-
 function App() {
   return (
     <>
